@@ -1,0 +1,6 @@
+﻿"Id,firstName,lastName,salary,managerId"
+"123,Joe,Doe,100000,"
+"124,Martin,Chekov,60000,123"
+"125,Bob,Ronstad,60000,123"
+"300,Alice,Hasacat,40000,124"
+"305,Brett,Hardleaf,35000,300"
